@@ -8,7 +8,8 @@ This project builds upon the foundation of browser-use, which is designed to mak
 - **Custom Browser Support**: Allows using your own browser without re-login or authentication issues.
 - **Persistent Browser Sessions**: Keeps browser open between AI tasks for better session tracking.
 ## Result Demo
-[74dbaad565934bdf53af118cd20c34e3.webm](https://github.com/user-attachments/assets/73650060-b0d6-4572-82c0-a05355d112fb)
+[69f95fffeb007aec7886fab4bf252342.webm](https://github.com/user-attachments/assets/185c1211-e2ef-4617-8fc8-dcc67e46761c)
+
 ## Snapshots
 Agent Interface
 ![Screenshot 2025-02-26 233728](https://github.com/user-attachments/assets/b2f1997a-99c4-42fa-b3a5-d5bdd3f54bd9)
